@@ -48,3 +48,7 @@ function exibirSaudacao() {
     console.log("Olá!");
 }
 ```
+
+## REFERÊNCIAS
+
+* [JSDoc](https://jsdoc.app/)
