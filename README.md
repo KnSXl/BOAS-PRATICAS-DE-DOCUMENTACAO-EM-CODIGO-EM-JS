@@ -8,14 +8,14 @@ const x = 0; // O que é/o que faz
 ### EM FUNÇÕES
 ```js
 /**
-* O que faz
+* O que faz.
 */
 function nomeFuncao() {}
 
 /**
-* O que faz
-* @param {string} parametro - O que é
-* @returns {string} O que retorna
+* O que faz.
+* @param {string} parametro - O que é.
+* @returns {string} O que retorna.
 */
 function nomeFuncao(parametro) {
     return parametro;
